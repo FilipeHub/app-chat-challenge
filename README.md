@@ -1,5 +1,7 @@
 # Chat Challenge (ReactJS)
 
+![](https://github.com/FilipeHub/app-chat-challenge/blob/master/src/assets/images/screenshots/screen.png)
+
 ## About this project
 
 This project represents the web frontend of the [Chat Challenge API](https://github.com/FilipeHub/api-chat-challenge), where the user could:
